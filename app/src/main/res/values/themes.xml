@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.cookbook1" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/gray</item>
+        <item name="colorAccent">@color/turquoise</item>
+        <item name="android:windowBackground">@color/gray</item>
+        <item name="android:itemBackground">@color/turquoise</item>
+        <item name="buttonBarStyle">@color/turquoise</item>
+    </style>
+
+    <style name="Theme.cookbook1" parent="Base.Theme.cookbook1" />
+</resources>
